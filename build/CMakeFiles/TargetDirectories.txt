@@ -1,0 +1,5 @@
+/home/abhisk/yugabyte-connector/build/CMakeFiles/yugabyte_connector.dir
+/home/abhisk/yugabyte-connector/build/CMakeFiles/main_test.dir
+/home/abhisk/yugabyte-connector/build/CMakeFiles/employee_management_test.dir
+/home/abhisk/yugabyte-connector/build/CMakeFiles/edit_cache.dir
+/home/abhisk/yugabyte-connector/build/CMakeFiles/rebuild_cache.dir
