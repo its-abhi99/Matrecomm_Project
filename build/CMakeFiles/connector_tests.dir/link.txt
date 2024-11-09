@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/connector_tests.dir/tests/main_test.cpp.o CMakeFiles/connector_tests.dir/tests/employee_management_test.cpp.o -o connector_tests  -Wl,-rpath,/usr/local/lib libyugabyte_connector.a /usr/local/lib/libPocoData.so.103 /usr/local/lib/libPocoFoundation.so.103 -lpthread -latomic -ldl -lrt -lPocoDataPostgreSQL /usr/lib/x86_64-linux-gnu/libpq.so 

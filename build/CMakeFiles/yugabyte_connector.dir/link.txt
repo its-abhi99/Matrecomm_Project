@@ -1,0 +1,2 @@
+/usr/bin/ar qc libyugabyte_connector.a CMakeFiles/yugabyte_connector.dir/src/YBConnection.cpp.o CMakeFiles/yugabyte_connector.dir/src/YBQuery.cpp.o CMakeFiles/yugabyte_connector.dir/src/YBResult.cpp.o CMakeFiles/yugabyte_connector.dir/src/YBError.cpp.o CMakeFiles/yugabyte_connector.dir/src/YBAuthentication.cpp.o CMakeFiles/yugabyte_connector.dir/src/EmployeeManagement.cpp.o
+/usr/bin/ranlib libyugabyte_connector.a
