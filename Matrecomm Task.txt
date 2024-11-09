@@ -1,0 +1,54 @@
+Task: Implementing a Distributed Database Connector with Poco C++ Libraries
+Summary:
+
+In this task, you will take on the challenge of designing and implementing a C++ connector library using Poco C++ libraries. The library will facilitate applications in connecting and interacting with Yugabyte, a distributed database, offering efficient data retrieval and storage capabilities.
+
+Day 1: Project Setup and Connector Design
+Summary:
+On the first day, you will set up the project and embark on the design phase of the distributed database connector library. You'll configure the development environment, install Poco C++ libraries, and outline the library's architecture.
+Tasks:
+•	Set up a new C++ project for the distributed database connector library using Poco C++ libraries.
+•	Install and configure Poco C++ libraries to provide essential database connectivity and networking capabilities.
+•	Define the objectives of the connector library, including connecting to Yugabyte, data retrieval, and storage.
+•	Architect the library, specifying its components, query mechanisms, and error handling strategies.
+
+Day 2: Connection and Authentication
+Summary:
+The second day focuses on implementing connection and authentication mechanisms within the distributed database connector library. You'll enable applications to connect securely to Yugabyte.
+
+Tasks:
+•	Develop C++ components for establishing connections to Yugabyte databases using Poco C++ libraries.
+•	Implement authentication features to allow applications to authenticate securely with Yugabyte.
+•	Ensure that connections are established reliably and securely.
+•	Test connection and authentication processes with sample Yugabyte databases.
+
+Day 3: Data Retrieval and Querying
+Summary:
+On day three, you will concentrate on data retrieval and querying capabilities within the connector library. You'll enable applications to fetch data efficiently.
+Tasks:
+•	Create C++ functions and methods for executing database queries, including SELECT statements, using Poco C++ libraries.
+•	Implement mechanisms for retrieving data sets and handling query results.
+•	Ensure error handling for query execution and result processing.
+•	Test data retrieval and querying with sample queries and data sets.
+
+Day 4: Data Storage and Modification
+Summary:
+The fourth day involves building data storage and modification features within the distributed database connector library. You'll enable applications to insert, update, and delete data in Yugabyte databases.
+Tasks:
+•	Develop C++ functions and methods for executing data modification queries, including INSERT, UPDATE, and DELETE statements, using Poco C++ libraries.
+•	Implement mechanisms for handling data modification results and errors.
+•	Ensure secure and efficient data storage and modification.
+•	Test data storage and modification processes with sample queries and data sets.
+
+Day 5: Testing, Documentation, and Optimization
+Summary:
+The final day encompasses comprehensive testing of the distributed database connector library, documentation, and optimization efforts to ensure performance and reliability.
+Tasks:
+•	Conduct rigorous testing of the connector library, including connection establishment, authentication, data retrieval, querying, and data modification.
+•	Document the setup instructions, usage guidelines, and key implementation details.
+•	Optimize the library's performance, focusing on response times and query efficiency.
+•	Prepare a brief presentation or document highlighting key design decisions, challenges faced, and optimization strategies.
+
+End Summary:
+By the end of this task, you will have successfully designed and implemented a C++ connector library using Poco C++ libraries, allowing applications to connect and interact with Yugabyte as a distributed database efficiently. This library provides essential data retrieval and storage capabilities, making it a valuable tool for database integration in various applications.
+Note: Timeline to complete the task is 1 week, please let us know in case of any query.
